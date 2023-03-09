@@ -62,7 +62,7 @@ These instructions assume you have created/understood the following:
 	- Markdown is a lightweight scriptable language that is designed to be compatible with the web. This provides increased flexibility and power over a traditional Word Processor such as Microsoft Word.
 	
 2. Why is my resume not showing up?
-	- Github takes time to deploy your website after a new commit, from your repository page if you navigate to the _**Actions**_ tab you can see if there is an active 
+	- Github takes time to deploy your website after a new commit, from your repository page if you navigate to the _**Actions**_ tab you can see if there is an active process (orange) or a failed process (red) which could be causing the problems. See [here][Github Pages Troubleshooting] if your site is failing repeatedly.
 
 
 [Etter's Book]: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
@@ -71,3 +71,4 @@ These instructions assume you have created/understood the following:
 [MarkdownGuide]: https://www.markdownguide.org/basic-syntax/
 [ThemePages]: w
 [ThemeAuthor]: https://github.com/coogie/oscailte
+[Github Pages Troubleshooting]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites

@@ -71,4 +71,4 @@ These instructions assume you have created/understood the following:
 [MarkdownGuide]: https://www.markdownguide.org/basic-syntax/
 [ThemePages]: w
 [ThemeAuthor]: https://github.com/coogie/oscailte
-[Github Pages Troubleshooting]:
+[Github Pages Troubleshooting]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites
