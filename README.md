@@ -30,19 +30,45 @@ These instructions assume you have created/understood the following:
 
 ### Configuring your Site:
 4. Rename your resume.md to index.md
-	- This allows Github to recognize your resume as the root page for your website.
+	- This allows Github to recognize your resume
+ as the root page for your website.
+ 	- If you go to https://_**username**_.github.io you should see your resume (after Github has a chance to build and deploy your changes).
 5. Click the _**Commit changes**_ button again to update your file
 
 ### Formatting and Theme:
-1. Click the _**Add File**_
+1. Click the _**Add File**_ button
+2. Click the _**Create new file**_ button
+	- This will open a web editor for our file
+3. Name your file _**_config.yml**_
+	- This file will specify the style and format of your site, this separates the design and content of your website.
+4. In the file add the following lines:
+	>remote-theme: _**creator/theme-name**_
+	-	This is your theme for your website, Github in the background will import the style information from the specified theme.
+	-	You can find a list of potential themes that are publicly available [here][ThemePages].
+	-	Always make sure to give credit to the theme's creator in your README!
+5. Click the _**Commit new file**_ button to save and push your file to the repository.
+	- As before, after a short delay for Github to build and deploy your site again, going to https://_**username**_.github.io should show your newly formatted resume.
 
 ## Authors and Acknowledgements
-
+- Author:
+	- Cody Gordon
+- Theme Author:
+	- [coogie][ThemeAuthor]
+- Acknowledgments:
+	- Special thanks to my group-mates Hong Gao, Rolf Olayan, and VICTOR IFEAKACHI EZENDU for their assistance and advice. 
 
 ## FAQs
+1. Why use Markdown instead of a Word Processor?
+	- Markdown is a lightweight scriptable language that is designed to be compatible with the web. This provides increased flexibility and power over a traditional Word Processor such as Microsoft Word.
+	
+2. Why is my resume not showing up?
+	- Github takes time to deploy your website after a new commit, from your repository page if you navigate to the _**Actions**_ tab you can see if there is an active process (orange) or a failed process (red) which could be causing the problems. See [here][Github Pages Troubleshooting] if your site is failing repeatedly.
 
 
 [Etter's Book]: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 [Github]: www.github.com
 [ResumeGuide]: https://zety.com/blog/how-to-make-a-resume
 [MarkdownGuide]: https://www.markdownguide.org/basic-syntax/
+[ThemePages]: w
+[ThemeAuthor]: https://github.com/coogie/oscailte
+[Github Pages Troubleshooting]:
