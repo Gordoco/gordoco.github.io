@@ -3,7 +3,7 @@
 ![Resume Gif](img/animatedgif.gif)
 
 ## Purpose
-Below we will walk through the process of creating and hosting a resume online through the use of Github Pages, Markdown, and Jekyll. In doing so, we will explore the utility of modern documentation as stated by Andrew Etter in his book [Modern Technical Writing][Etter's Book].
+Below we will walk through the process of creating and hosting a resume online through the use of Github Pages, Markdown, and Jekyll like the gif above. In doing so, we will explore the utility of modern documentation as stated by Andrew Etter in his book [Modern Technical Writing][Etter's Book].
 
 ## Prerequisites
 These instructions assume you have created/understood the following:
@@ -53,7 +53,7 @@ These instructions assume you have created/understood the following:
 	-	You can find a list of potential themes that are publicly available [here][ThemePages].
 	-	Always make sure to give credit to the theme's creator in your README!
 5. Click the _**Commit new file**_ button to save and push your file to the repository.
-	- As before, after a short delay for Github to build and deploy your site again, going to https://_**username**_.github.io should show your newly formatted resume.
+	- As before, after a short delay for Github to build and deploy your site again, going to https://_**username**_.github.io should show your newly formatted resume (see gif above for example).
 
 ## Authors and Acknowledgements
 - Author:
