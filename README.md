@@ -69,6 +69,6 @@ These instructions assume you have created/understood the following:
 [Github]: www.github.com
 [ResumeGuide]: https://zety.com/blog/how-to-make-a-resume
 [MarkdownGuide]: https://www.markdownguide.org/basic-syntax/
-[ThemePages]: w
+[ThemePages]: https://github.com/planetjekyll/awesome-jekyll-themes
 [ThemeAuthor]: https://github.com/coogie/oscailte
 [Github Pages Troubleshooting]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites
