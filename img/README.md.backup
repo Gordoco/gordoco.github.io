@@ -1,7 +1,5 @@
 # README
 
-![Resume Gif](img/animatedgif.gif)
-
 ## Purpose
 Below we will walk through the process of creating and hosting a resume online through the use of Github Pages, Markdown, and Jekyll. In doing so, we will explore the utility of modern documentation as stated by Andrew Etter in his book [Modern Technical Writing][Etter's Book].
 
@@ -71,6 +69,6 @@ These instructions assume you have created/understood the following:
 [Github]: www.github.com
 [ResumeGuide]: https://zety.com/blog/how-to-make-a-resume
 [MarkdownGuide]: https://www.markdownguide.org/basic-syntax/
-[ThemePages]: https://github.com/planetjekyll/awesome-jekyll-themes
+[ThemePages]: w
 [ThemeAuthor]: https://github.com/coogie/oscailte
 [Github Pages Troubleshooting]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites
