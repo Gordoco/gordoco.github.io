@@ -17,6 +17,7 @@ These instructions assume you have created/understood the following:
 2. Click on the **New** button in the top left of the screen to create a new repository
 3. Name the repository _**username**_.github.io
 	+ _**username**_ should match the name on your Github account.
+	+ In his book, Etter says to use distributed version control. This is the purpose of hosting your resume through a repository. Now you can collaborate and keep track of changes to your resume automatically without the fear of losing data. 
 4. Make your repository **Public**
 	- The repository should be Public by default, but this is essential for ensuring your website is accessable.
 5. Click _Add a README file_
@@ -28,6 +29,7 @@ These instructions assume you have created/understood the following:
 2. Click the _**Add File**_ button
 3. Click the _**Upload Files**_ button
 	- This will open a dialogue window to upload your resume.md file that you created before.
+	- We are using a Markdown file because lightweight markup languages allow for the abstraction of intense and complex languages such as XML and JavaScript. Etter emphasizes this in his book.
 4. Click the _**Commit changes**_ button to submit your files
 
 ### Configuring your Site:
@@ -43,6 +45,8 @@ These instructions assume you have created/understood the following:
 	- This will open a web editor for our file
 3. Name your file _**_config.yml**_
 	- This file will specify the style and format of your site, this separates the design and content of your website.
+	- Etter emphasizes the need to not duplicate work. This config file allows us to create an abstraction that will limit duplication.
+	- In addition, the way Github creates your site is through a software called Jekyll which creates a static site from the markdown file for your resume, and the style information contained in the _**_config.yml**_ file. This is the power of a static site that Etter talks about in his book!
 4. In the file add the following lines:
 	>remote-theme: _**creator/theme-name**_
 	-	This is your theme for your website, Github in the background will import the style information from the specified theme.
