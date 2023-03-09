@@ -1,13 +1,17 @@
-## README
+# README
 
-### Purpose
+## Purpose
+---
 
 
+## Prerequisites
+---
 
-### Prerequisites
-
-### Instructions
+## Instructions
+---
 
 ### Authors and Acknowledgements
+---
 
 ### FAQs
+---
