@@ -1,6 +1,3 @@
----
----
-
 ## Cody Gordon
 Winnipeg, Manitoba, Canada
 
