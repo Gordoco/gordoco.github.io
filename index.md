@@ -1,4 +1,6 @@
-  
+---
+layout: default
+---
 Phone:&emsp;&emsp;(204) 794-9728  
 Email:&emsp;&emsp;gordoco416@gmail.com  
 Github:&emsp;&emsp;[github.com/Gordoco](Github)  
