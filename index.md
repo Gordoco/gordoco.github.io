@@ -1,12 +1,12 @@
   
-Phone:		(204) 794-9728  
-Email:		gordoco416@gmail.com  
-Github:		[github.com/Gordoco](Github)  
-LinkedIn:	[linkedin.com/in/cody-gordon](LinkedIn)  
-Itch:		[gordocogames.itch.io](Itch)  
+Phone:&emsp;&emsp;(204) 794-9728  
+Email:&emsp;&emsp;gordoco416@gmail.com  
+Github:&emsp;&emsp;[github.com/Gordoco](Github)  
+LinkedIn:&emsp;&emsp;[linkedin.com/in/cody-gordon](LinkedIn)  
+Itch:&emsp;&emsp;[gordocogames.itch.io](Itch)  
 ## Education
-#### Bachelor of Science - Computer Science Honours, Minor in Mathematics
-##### University of Manitoba | Expected: April 2024
+### Bachelor of Science - Computer Science Honours, Minor in Mathematics
+#### University of Manitoba | Expected: April 2024
 
 ## Technical Skills
   

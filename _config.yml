@@ -1,2 +1,4 @@
-remote-theme: coogie/oscailte
-title: "My Resume"
+remote-theme: pages-themes/midnight@v0.2.0
+title: "Cody Gordon"
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
