@@ -1,5 +1,4 @@
-  
-  
+
 |||
 |:--|--:|
 | **Phone #**: | (204) 794-9728 |
@@ -66,9 +65,10 @@ Worked to coordinate with other instructors and help streamline children's educa
 
 # Game Jams
 ---
-## [The Completion Jam](Completion_Jam) (Participant) - [simply-misunderstood](Completion_Jam_Submission)
-## [2021 Epic Mega Jam](MegaJam_2021) (Participant) - [tile-town](MegaJam_2021_Submission)
 ## [2022 Epic Mega Jam](MegaJam_2022) (Participant) - [breaking-point](MegaJam_2022_Submission)
+## [2021 Epic Mega Jam](MegaJam_2021) (Participant) - [tile-town](MegaJam_2021_Submission)
+## [The Completion Jam](Completion_Jam) (Participant) - [simply-misunderstood](Completion_Jam_Submission)
+
 
 [Github]: https://github.com/Gordoco
 [LinkedIn]: https://www.linkedin.com/in/cody-gordon-990313230/
