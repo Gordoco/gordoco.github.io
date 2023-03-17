@@ -1,6 +1,5 @@
 
-# Contact Info
----
+## Contact Info
 
 |||
 |:--|--:|
@@ -21,8 +20,8 @@
 |||
 |:--|--:|
 | Itch: | [gordocogames.itch.io](Itch) |  
-  
-  
+<br>
+ 
 # Education
 ---
 ## Bachelor of Science - Computer Science Honours, Minor in Mathematics
