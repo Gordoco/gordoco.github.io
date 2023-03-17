@@ -1,5 +1,5 @@
 | Cody Gordon | (204) 794-9728 <br/> gordoco416@gmail.com <br/> [github.com/Gordoco](Github) <br/> [linkedin.com/in/cody-gordon](LinkedIn) <br/> [gordocogames.itch.io](Itch)|
-| :--         | --:                                      |
+| :---         | ---:                                      |
 
 ## Education
 #### Bachelor of Science - Computer Science Honours, Minor in Mathematics
@@ -7,12 +7,12 @@
 
 ## Technical Skills
 | Programming Languages | Tools and Technology |
-| :-: | :-: |
+| :--: | :--: |
 | C++ <br/> C# <br/> Java <br/> SQL | Unreal Engine 4/5 <br/> Unity Engine <br/> Git/Github |
 
 ## Experience 
 | Contracted Software Developer - Video Game Development | Sept. 2020 - Jan. 2023 |
-| :-- | --: |
+| :--- | ---: |
   
 Canadian Centre for Child Protection, Sole Developer - Winnipeg, Canada  
 Contracted to create an educational interactive experience promoting online safety.
@@ -22,7 +22,7 @@ Contracted to create an educational interactive experience promoting online safe
 - Used an Unreal Engine 4 source build to customize the Emscripten C++ to JavaScript pipeline.
 
 | Coding Instructor | Aug. 2019 - Present |
-| :-- | --: |
+| :--- | ---: |
   
 Code Ninjas Winnipeg, Lead Senseis - Winnipeg, Canada  
 Worked to coordinate with other instructors and help streamline children's education in programming.
