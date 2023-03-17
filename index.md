@@ -1,6 +1,3 @@
----
----
-
 | Cody Gordon | (204) 794-9728 <br/> gordoco416@gmail.com <br/> [github.com/Gordoco](Github) <br/> [linkedin.com/in/cody-gordon](LinkedIn) <br/> [gordocogames.itch.io](Itch)|
 | :--         | --:                                      |
 
@@ -21,8 +18,8 @@ Canadian Centre for Child Protection, Sole Developer - Winnipeg, Canada
 Contracted to create an educational interactive experience promoting online safety.
 - Created a project proposal with several tiers to provide some flexibility with the scale and cost of the project.
 - Developed a C++ framework in Unreal Engine 4 to facilitate rapid iteration/prototyping.
-- Worked extensively with Unreal Engine Blueprint and widget systems to design game-play to specification.
-- Used an Unreal Engine source build to customize the Emscripten C++ to JavaScript pipeline.
+- Worked extensively with Unreal Engine 4 Blueprint and widget systems to script specified story points.
+- Used an Unreal Engine 4 source build to customize the Emscripten C++ to JavaScript pipeline.
 
 | Coding Instructor | Aug. 2019 - Present |
 | :-- | --: |
@@ -37,12 +34,17 @@ Worked to coordinate with other instructors and help streamline children's educa
 #### Commanders and Commandos (Unreal Engine 5) - [github.com/Gordoco/RTS_FPS](RTS_FPS)
 [Steam store page](CandC_Steam)
   
-Commanders and Commandos is a match-based multiplayer game where players take on either the role of their team's commander in a Real-Time Strategy match or the role of one of their team's commandos, powerful First-Person Shooter units with the ability to change the outcome of battle.
+- Multiplayer 4v4 Match-Based Gameplay
+- Hybrid First Person Shooter/Real Time Strategy Gameplay
+- Implemented in Unreal Engine 5 using Steam Networking Services
   
 #### Procedural Landscape Generator (Unity Engine) - [github.com/Gordoco/Landscape](Landscape_Github)
 [Itch.io download page](Landscape_Unity)
   
-A framework for future Unity development, this project implements a mesh-based landscape generation with a focus on modular design. Some features of the project include perlin-noise based topological generation, object pooling for foliage objects, and seeded consistent world generation.
+- Unity Development Framework/Learning Exercise
+- Mesh-Based Procedural Landscape and Foliage Generation
+- Utilizes Object Pooling and Perlin-Noise, Pseudo-Random, Seeded Generation
+- Implemented in Unity Engine
 
 ## Game Jams
 #### [The Completion Jam](Completion_Jam) (Participant) - [gordocogames.itch.io/simply-misunderstood](Completion_Jam_Submission)
