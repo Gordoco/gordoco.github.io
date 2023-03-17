@@ -1,10 +1,26 @@
 
+# Contact Info
+---
 
-Phone #: (204) 794-9728  
-Email: gordoco416@gmail.com  
-Github: [github.com/Gordoco](Github)  
-LinkedIn: [linkedin.com/in/cody-gordon](LinkedIn)  
-Itch: [gordocogames.itch.io](Itch)  
+|||
+|:--|--:|
+| Phone #: | (204) 794-9728 |  
+
+|||
+|:--|--:|
+| Email: | gordoco416@gmail.com |  
+
+|||
+|:--|--:|
+| Github: | [github.com/Gordoco](Github)|  
+
+|||
+|:--|--:|
+| LinkedIn: | [linkedin.com/in/cody-gordon](LinkedIn) |  
+
+|||
+|:--|--:|
+| Itch: | [gordocogames.itch.io](Itch) |  
   
   
 # Education
