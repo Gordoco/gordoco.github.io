@@ -15,16 +15,17 @@ Itch:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [gordocogames.itch.i
 
 # Technical Skills
  ---
-   
+ 
 | Programming Languages | Tools and Technology |
 | :--: | :--: |
 | C++ <br/> C# <br/> Java <br/> SQL | Unreal Engine 4/5 <br/> Unity Engine <br/> Git/Github |
+
 <br>
 <br>
 
 # Experience 
  ---
-### Contracted Software Developer - Video Game Development, Sept. 2020 - Jan. 2023
+## Contracted Software Developer - Video Game Development, Sept. 2020 - Jan. 2023
   
 Canadian Centre for Child Protection, Sole Developer - Winnipeg, Canada  
 Contracted to create an educational interactive experience promoting online safety.
@@ -33,7 +34,7 @@ Contracted to create an educational interactive experience promoting online safe
 - Worked extensively with Unreal Engine 4 Blueprint and widget systems to script specified story points.
 - Used an Unreal Engine 4 source build to customize the Emscripten C++ to JavaScript pipeline.
   
-### Coding Instructor, Aug. 2019 - Present
+## Coding Instructor, Aug. 2019 - Present
   
 Code Ninjas Winnipeg, Lead Senseis - Winnipeg, Canada  
 Worked to coordinate with other instructors and help streamline children's education in programming.
@@ -45,14 +46,14 @@ Worked to coordinate with other instructors and help streamline children's educa
 
 # Projects
 ---
-### Commanders and Commandos (Unreal Engine 5) - [github.com/Gordoco/RTS_FPS](RTS_FPS)
+## Commanders and Commandos (Unreal Engine 5) - [github.com/Gordoco/RTS_FPS](RTS_FPS)
 [Steam store page](CandC_Steam)
   
 - Multiplayer 4v4 Match-Based Gameplay
 - Hybrid First Person Shooter/Real Time Strategy Gameplay
 - Implemented in Unreal Engine 5 using Steam Networking Services
   
-### Procedural Landscape Generator (Unity Engine) - [github.com/Gordoco/Landscape](Landscape_Github)
+## Procedural Landscape Generator (Unity Engine) - [github.com/Gordoco/Landscape](Landscape_Github)
 [Itch.io download page](Landscape_Unity)
   
 - Unity Development Framework/Learning Exercise
@@ -63,9 +64,9 @@ Worked to coordinate with other instructors and help streamline children's educa
 
 # Game Jams
 ---
-### [The Completion Jam](Completion_Jam) (Participant) - [gordocogames.itch.io/simply-misunderstood](Completion_Jam_Submission)
-### [2021 Epic Mega Jam](MegaJam_2021) (Participant) - [gordocogames.itch.io/tile-town](MegaJam_2021_Submission)
-### [2022 Epic Mega Jam](MegaJam_2022) (Participant) - [gordocogames.itch.io/breaking-point](MegaJam_2022_Submission)
+## [The Completion Jam](Completion_Jam) (Participant) - [gordocogames.itch.io/simply-misunderstood](Completion_Jam_Submission)
+## [2021 Epic Mega Jam](MegaJam_2021) (Participant) - [gordocogames.itch.io/tile-town](MegaJam_2021_Submission)
+## [2022 Epic Mega Jam](MegaJam_2022) (Participant) - [gordocogames.itch.io/breaking-point](MegaJam_2022_Submission)
 
 [Github]: https://github.com/Gordoco
 [LinkedIn]: https://www.linkedin.com/in/cody-gordon-990313230/
