@@ -1,23 +1,27 @@
 
-| <div style="width:150px">Phone</div> | <div style="width:150px">Email</div> | <div style="width:150px">Github</div> | <div style="width:150px">LinkedIn</div> | <div style="width:150px">Itch<div> |
-| :-: | :-: | :-: | :-: | :-: |
-| (204) 794-9728 | gordoco416@gmail.com | [github.com/Gordoco](Github) | [linkedin.com/in/cody-gordon](LinkedIn) |  [gordocogames.itch.io](Itch) |
+
+Phone #:&nbsp;&nbsp; (204) 794-9728  
+Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gordoco416@gmail.com  
+Github:&nbsp;&nbsp;&nbsp;&nbsp; [github.com/Gordoco](Github)  
+LinkedIn:&nbsp; [linkedin.com/in/cody-gordon](LinkedIn)  
+Itch:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [gordocogames.itch.io](Itch)  
   
   
 # Education
 ---
 ## Bachelor of Science - Computer Science Honours, Minor in Mathematics
 #### University of Manitoba | Expected: April 2024
-  
-  
+<br>
+
 # Technical Skills
  ---
    
 | Programming Languages | Tools and Technology |
 | :--: | :--: |
 | C++ <br/> C# <br/> Java <br/> SQL | Unreal Engine 4/5 <br/> Unity Engine <br/> Git/Github |
-  
-  
+<br>
+<br>
+
 # Experience 
  ---
 ### Contracted Software Developer - Video Game Development, Sept. 2020 - Jan. 2023
@@ -37,8 +41,8 @@ Worked to coordinate with other instructors and help streamline children's educa
 - Taught students one-on-one focusing on developing the skills needed to pursue their personal coding related projects.
 - Developed strategies for staff - student interaction with the leadership team.
 
-  
-  
+<br>
+
 # Projects
 ---
 ### Commanders and Commandos (Unreal Engine 5) - [github.com/Gordoco/RTS_FPS](RTS_FPS)
@@ -55,8 +59,8 @@ Worked to coordinate with other instructors and help streamline children's educa
 - Mesh-Based Procedural Landscape and Foliage Generation
 - Utilizes Object Pooling and Perlin-Noise, Pseudo-Random, Seeded Generation
 - Implemented in Unity Engine
-  
-  
+<br>
+
 # Game Jams
 ---
 ### [The Completion Jam](Completion_Jam) (Participant) - [gordocogames.itch.io/simply-misunderstood](Completion_Jam_Submission)
