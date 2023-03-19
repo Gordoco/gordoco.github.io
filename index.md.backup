@@ -29,7 +29,7 @@
 ## Contracted Software Developer - Video Game Development, Sept. 2020 - Jan. 2023
   
 Canadian Centre for Child Protection, Sole Developer - Winnipeg, Canada  
-Contracted to create an educational interactive experience promoting online safety.
+Contracted to create an [educational interactive experience][ZoeAndMolly] promoting online safety.
 - Created a project proposal with several tiers to provide some flexibility with the scale and cost of the project.
 - Developed a C++ framework in Unreal Engine 4 to facilitate rapid iteration/prototyping.
 - Worked extensively with Unreal Engine 4 Blueprint and widget systems to script specified story points.
@@ -73,6 +73,7 @@ Worked to coordinate with other instructors and help streamline children's educa
 [Github]: https://github.com/Gordoco
 [LinkedIn]: https://www.linkedin.com/in/cody-gordon-990313230/
 [Itch]: https://gordocogames.itch.io/
+[ZoeAndMolly]: https://zoeandmolly.ca/app/en/adventure_under_sea
 [CandC_Steam]: https://store.steampowered.com/
 [RTS_FPS]: https://github.com/Gordoco/RTS_FPS
 [Landscape_Unity]: https://gordocogames.itch.io/Landscape
