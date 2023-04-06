@@ -54,10 +54,11 @@ Worked to coordinate with other instructors and help streamline children's educa
 - Hybrid First Person Shooter/Real Time Strategy Gameplay
 - Implemented in Unreal Engine 5 using Steam Networking Services
   
-## Procedural Landscape Generator (Unity Engine) - [github.com/Gordoco/Landscape][Landscape_Github]
-[Itch.io download page][Landscape_Unity]
+## Procedural Landscape Generator and AI Simulation (Unity Engine) - [github.com/Gordoco/EvolutionSimulator][EvolutionSimulator_Github]
+[Itch.io download page][EvolutionSimulator_Unity]
   
 - Unity Development Framework/Learning Exercise
+- Functional Genetic-Algorithm Style Ecological Model
 - Mesh-Based Procedural Landscape and Foliage Generation
 - Utilizes Object Pooling and Perlin-Noise, Pseudo-Random, Seeded Generation
 - Implemented in Unity Engine
@@ -76,8 +77,8 @@ Worked to coordinate with other instructors and help streamline children's educa
 [ZoeAndMolly]: https://zoeandmolly.ca/app/en/adventure_under_sea
 [CandC_Steam]: https://store.steampowered.com/
 [RTS_FPS]: https://github.com/Gordoco/RTS_FPS
-[Landscape_Unity]: https://gordocogames.itch.io/Landscape
-[Landscape_Github]: https://github.com/Gordoco/Landscape
+[EvolutionSimulator_Unity]: https://gordocogames.itch.io/evolution-simulator
+[EvolutionSimulator_Github]: https://github.com/Gordoco/EvolutionSimulator
 [Completion_Jam]: https://itch.io/jam/the-completion-jam
 [Completion_Jam_Submission]: https://gordocogames.itch.io/simply-misunderstood
 [MegaJam_2021]: https://itch.io/jam/2021-epic-megajam
