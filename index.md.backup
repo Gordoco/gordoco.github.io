@@ -66,6 +66,7 @@ Worked to coordinate with other instructors and help streamline children's educa
 
 # Game Jams
 ---
+## [JameGam 27][JameGam_27] (Participant) - [sky-swap][JameGam_27_Submission]
 ## [2022 Epic Mega Jam][MegaJam_2022] (Participant) - [breaking-point][MegaJam_2022_Submission]
 ## [2021 Epic Mega Jam][MegaJam_2021] (Participant) - [tile-town][MegaJam_2021_Submission]
 ## [The Completion Jam][Completion_Jam] (Participant) - [simply-misunderstood][Completion_Jam_Submission]
@@ -85,3 +86,5 @@ Worked to coordinate with other instructors and help streamline children's educa
 [MegaJam_2021_Submission]: https://gordocogames.itch.io/tile-town
 [MegaJam_2022]: https://itch.io/jam/2022-epic-megajam
 [MegaJam_2022_Submission]: https://gordocogames.itch.io/breaking-point
+[JameGam_27]: https://itch.io/jam/jame-gam-27
+[JameGam_27_Submission]: https://gordocogames.itch.io/sky-swap
