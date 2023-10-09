@@ -47,8 +47,7 @@ Worked to coordinate with other instructors and help streamline children's educa
 
 # Projects
 ---
-## Commanders and Commandos (Unreal Engine 5) - In Progress<[github.com/Gordoco/RTS_FPS][RTS_FPS]>
-<[Steam store page][CandC_Steam]>
+## Commanders and Commandos (Unreal Engine 5) - In Progress
   
 - Multiplayer 4v4 Match-Based Gameplay
 - Hybrid First Person Shooter/Real Time Strategy Gameplay
