@@ -47,12 +47,13 @@ Worked to coordinate with other instructors and help streamline children's educa
 
 # Projects
 ---
-## Commanders and Commandos (Unreal Engine 5) - [github.com/Gordoco/RTS_FPS][RTS_FPS]
-[Steam store page][CandC_Steam]
+## Commanders and Commandos (Unreal Engine 5) - In Progress<[github.com/Gordoco/RTS_FPS][RTS_FPS]>
+<[Steam store page][CandC_Steam]>
   
 - Multiplayer 4v4 Match-Based Gameplay
 - Hybrid First Person Shooter/Real Time Strategy Gameplay
 - Implemented in Unreal Engine 5 using Steam Networking Services
+- Planned to be released on the Steam distribution platform
   
 ## Procedural Landscape Generator and AI Simulation (Unity Engine) - [github.com/Gordoco/EvolutionSimulator][EvolutionSimulator_Github]
 [Itch.io download page][EvolutionSimulator_Unity]
