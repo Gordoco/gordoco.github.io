@@ -47,7 +47,7 @@ Worked to coordinate with other instructors and help streamline children's educa
 - Developed summer camp curriculum related to programming and game development that built on provided frameworks and centred on the design process
 - Taught students one-on-one with a focus on developing the skills needed to pursue their personal coding related projects
 - Developed strategies for staff - student interaction with the leadership team
-- Built rapport with clients resulting in better understanding on the program and increased sign-up rate
+- Built rapport with clients resulting in better understanding of the program and increased sign-up rate
 
 <br>
 
