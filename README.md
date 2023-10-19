@@ -1,102 +1,80 @@
+# README
 
-|||
-|:--|--:|
-| **Phone #**: | (204) 794-9728 |
-| **Email**: | gordoco416@gmail.com |
-| **Github**: | [github.com/Gordoco][Github]|
-| **LinkedIn**: | [linkedin.com/in/cody-gordon][LinkedIn] |
-| **Itch:** | [gordocogames.itch.io][Itch] |
-<br>
+![Resume Gif](img/animatedgif.gif)
 
-# Profile
----
-Dedicated and eager to learn computer science student with a passion for game development. Over eight years of amateur game design and programming experience in various engines and languages with a particular speciality in C++ and Unreal Engine. Worked as the sole developer on a team to produce an engaging, educational children's game from a set of learning goals. Gained experience in the indie development work flow through the ongoing process of publishing an independent title.
- 
-# Education
----
-## Bachelor of Science - Computer Science Honours, Minor in Mathematics
-#### University of Manitoba | Expected: April 2024
-<br>
+## Purpose
+Below we will walk through the process of creating and hosting a resume online through the use of Github Pages, Markdown, and Jekyll like the gif above. In doing so, we will explore the utility of modern documentation as stated by Andrew Etter in his book [Modern Technical Writing][Etter's Book].
 
-# Technical Skills
- ---
- 
-| **Programming Languages** | **Tools and Technology** |
-| :--: | :--: |
-| C++ <br/> C# <br/> Java <br/> SQL <br/> Python <br/> Javascript | Unreal Engine 4/5 <br/> Unity Engine <br/> Git/Github <br/> 3D Game Programming <br/> AI Algorithms |
-
-<br>
-<br>
-
-# Experience 
- ---
-## Contracted Software Developer - Video Game Development, Sept. 2020 - Jan. 2023
+## Prerequisites
+These instructions assume you have created/understood the following:
   
-Canadian Centre for Child Protection, Sole Developer - Winnipeg, Canada  
-Contracted to create an [educational interactive experience][ZoeAndMolly] promoting online safety
-- Created a project proposal with several tiers to provide flexibility with the scale and cost of the project
-- Developed a C++ framework in Unreal Engine 4 to facilitate rapid iteration/prototyping
-- Worked with a design team to create an educational and engaging user experience
-- Used an Unreal Engine 4 source build to customize the Emscripten C++ to JavaScript pipeline
-- Worked extensively with Unreal Engine 4 Blueprint and widget systems to script specified story points
-  
-## Lead Coding Instructor, Aug. 2019 - Present
-  
-Code Ninjas Winnipeg, Lead Senseis - Winnipeg, Canada  
-Worked to coordinate with other instructors and help streamline children's education in programming
-- Developed summer camp curriculum related to programming and game development that built on provided frameworks and centred on the design process
-- Taught students one-on-one with a focus on developing the skills needed to pursue their personal coding related projects
-- Developed strategies for staff - student interaction with the leadership team
-- Built rapport with clients resulting in better understanding of the program and increased sign-up rate
+- A Github account (create an account [here][Github])
+- A resume formatted in Markdown (Markdown syntax [here][MarkdownGuide], Resume guide [here][ResumeGuide])
 
-<br>
+## Instructions
+### Setup the repository:
+1. Log into your Github account and navigate to the home page (should be the default page after logging in).
+2. Click on the **New** button in the top left of the screen to create a new repository
+3. Name the repository _**username**_.github.io
+	+ _**username**_ should match the name on your Github account.
+	+ In his book, Etter says to use distributed version control. This is the purpose of hosting your resume through a repository. Now you can collaborate and keep track of changes to your resume automatically without the fear of losing data. 
+4. Make your repository **Public**
+	- The repository should be Public by default, but this is essential for ensuring your website is accessable.
+5. Click _Add a README file_
+	- A _README_ file allows other collaborators to know the purpose/function of the repository.
+6. Click **Create Repository**
 
-# Projects
----
-## Undergraduate Honors Thesis (Unity Engine) - Artificial Intelligence, Sept. 2023 - Apr. 2024
-  
-- Building upon a hypothesis presented in a master's degree thesis
-- Studying strategies regarding context generation in multi-agent intelligent systems
-- Creating simulations in Unity Engine to empirically test the effectiveness of various context generating strategies and analyzing results
+### Uploading our Resume:
+1. Open your newly created repository
+2. Click the _**Add File**_ button
+3. Click the _**Upload Files**_ button
+	- This will open a dialogue window to upload your resume.md file that you created before.
+	- We are using a Markdown file because lightweight markup languages allow for the abstraction of intense and complex languages such as XML and JavaScript. Etter emphasizes this in his book.
+4. Click the _**Commit changes**_ button to submit your files
 
-## Commanders and Commandos (Unreal Engine 5) - In Progress
-  
-- Multiplayer 4v4 Match-Based Gameplay
-- Hybrid First Person Shooter/Real Time Strategy Gameplay
-- Implemented in Unreal Engine 5 using Steam Networking Services
-- Planned to be released on the Steam distribution platform
-  
-## Procedural Landscape Generator and AI Simulation (Unity Engine) - [github.com/Gordoco/EvolutionSimulator][EvolutionSimulator_Github], Jan. 2023 - Apr. 2023
-[Itch.io download page][EvolutionSimulator_Unity]
-  
-- Unity Development Framework/Learning Exercise
-- Functional Genetic-Algorithm Style Ecological Model
-- Mesh-Based Procedural Landscape and Foliage Generation
-- Utilizes Object Pooling and Perlin-Noise, Pseudo-Random, Seeded Generation
-- Implemented in Unity Engine
-<br>
+### Configuring your Site:
+4. Rename your resume.md to index.md
+	- This allows Github to recognize your resume
+ as the root page for your website.
+ 	- If you go to https://_**username**_.github.io you should see your resume (after Github has a chance to build and deploy your changes).
+5. Click the _**Commit changes**_ button again to update your file
 
-# Game Jams
----
-## [JameGam 27][JameGam_27] (Participant) - [sky-swap][JameGam_27_Submission]
-## [2022 Epic Mega Jam][MegaJam_2022] (Participant) - [breaking-point][MegaJam_2022_Submission]
-## [2021 Epic Mega Jam][MegaJam_2021] (Participant) - [tile-town][MegaJam_2021_Submission]
-## [The Completion Jam][Completion_Jam] (Participant) - [simply-misunderstood][Completion_Jam_Submission]
+### Formatting and Theme:
+1. Click the _**Add File**_ button
+2. Click the _**Create new file**_ button
+	- This will open a web editor for our file
+3. Name your file _**_config.yml**_
+	- This file will specify the style and format of your site, this separates the design and content of your website.
+	- Etter emphasizes the need to not duplicate work. This config file allows us to create an abstraction that will limit duplication.
+	- In addition, the way Github creates your site is through a software called Jekyll which creates a static site from the markdown file for your resume, and the style information contained in the _**_config.yml**_ file. This is the power of a static site that Etter talks about in his book!
+4. In the file add the following lines:
+	>remote-theme: _**creator/theme-name**_
+	-	This is your theme for your website, Github in the background will import the style information from the specified theme.
+	-	You can find a list of potential themes that are publicly available [here][ThemePages].
+	-	Always make sure to give credit to the theme's creator in your README!
+5. Click the _**Commit new file**_ button to save and push your file to the repository.
+	- As before, after a short delay for Github to build and deploy your site again, going to https://_**username**_.github.io should show your newly formatted resume (see gif above for example).
+
+## Authors and Acknowledgements
+- Author:
+	- Cody Gordon
+- Theme Author:
+	- [coogie][ThemeAuthor]
+- Acknowledgments:
+	- Special thanks to my group-mates Hong Gao, Rolf Olayan, and VICTOR IFEAKACHI EZENDU for their assistance and advice. 
+
+## FAQs
+1. Why use Markdown instead of a Word Processor?
+	- Markdown is a lightweight scriptable language that is designed to be compatible with the web. This provides increased flexibility and power over a traditional Word Processor such as Microsoft Word.
+	
+2. Why is my resume not showing up?
+	- Github takes time to deploy your website after a new commit, from your repository page if you navigate to the _**Actions**_ tab you can see if there is an active process (orange) or a failed process (red) which could be causing the problems. See [here][Github Pages Troubleshooting] if your site is failing repeatedly.
 
 
-[Github]: https://github.com/Gordoco
-[LinkedIn]: https://www.linkedin.com/in/cody-gordon-990313230/
-[Itch]: https://gordocogames.itch.io/
-[ZoeAndMolly]: https://zoeandmolly.ca/app/en/adventure_under_sea
-[CandC_Steam]: https://store.steampowered.com/
-[RTS_FPS]: https://github.com/Gordoco/RTS_FPS
-[EvolutionSimulator_Unity]: https://gordocogames.itch.io/evolution-simulator
-[EvolutionSimulator_Github]: https://github.com/Gordoco/EvolutionSimulator
-[Completion_Jam]: https://itch.io/jam/the-completion-jam
-[Completion_Jam_Submission]: https://gordocogames.itch.io/simply-misunderstood
-[MegaJam_2021]: https://itch.io/jam/2021-epic-megajam
-[MegaJam_2021_Submission]: https://gordocogames.itch.io/tile-town
-[MegaJam_2022]: https://itch.io/jam/2022-epic-megajam
-[MegaJam_2022_Submission]: https://gordocogames.itch.io/breaking-point
-[JameGam_27]: https://itch.io/jam/jame-gam-27
-[JameGam_27_Submission]: https://gordocogames.itch.io/sky-swap
+[Etter's Book]: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+[Github]: https://www.github.com
+[ResumeGuide]: https://zety.com/blog/how-to-make-a-resume
+[MarkdownGuide]: https://www.markdownguide.org/basic-syntax/
+[ThemePages]: https://github.com/planetjekyll/awesome-jekyll-themes
+[ThemeAuthor]: https://github.com/coogie/oscailte
+[Github Pages Troubleshooting]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites
