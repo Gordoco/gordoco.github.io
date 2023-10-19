@@ -7,6 +7,10 @@
 | **LinkedIn**: | [linkedin.com/in/cody-gordon][LinkedIn] |
 | **Itch:** | [gordocogames.itch.io][Itch] |
 <br>
+
+# Profile
+---
+Dedicated and eager to learn computer science student with a passion for game development. Over eight years of amateur game design and programming experience in various engines and languages with a particular speciality in C++ and Unreal Engine. Worked as the sole developer on a team to produce an engaging, educational children's game from a set of learning goals. Gained experience in the indie development work flow through the ongoing process of publishing a first independent title.
  
 # Education
 ---
@@ -19,7 +23,7 @@
  
 | **Programming Languages** | **Tools and Technology** |
 | :--: | :--: |
-| C++ <br/> C# <br/> Java <br/> SQL | Unreal Engine 4/5 <br/> Unity Engine <br/> Git/Github |
+| C++ <br/> C# <br/> Java <br/> SQL <br/> Python <br/> Javascript | Unreal Engine 4/5 <br/> Unity Engine <br/> Git/Github <br/> 3D Game Programming <br/> AI Algorithms |
 
 <br>
 <br>
@@ -29,32 +33,40 @@
 ## Contracted Software Developer - Video Game Development, Sept. 2020 - Jan. 2023
   
 Canadian Centre for Child Protection, Sole Developer - Winnipeg, Canada  
-Contracted to create an [educational interactive experience][ZoeAndMolly] promoting online safety.
-- Created a project proposal with several tiers to provide some flexibility with the scale and cost of the project.
-- Developed a C++ framework in Unreal Engine 4 to facilitate rapid iteration/prototyping.
-- Worked extensively with Unreal Engine 4 Blueprint and widget systems to script specified story points.
-- Used an Unreal Engine 4 source build to customize the Emscripten C++ to JavaScript pipeline.
+Contracted to create an [educational interactive experience][ZoeAndMolly] promoting online safety
+- Created a project proposal with several tiers to provide flexibility with the scale and cost of the project
+- Developed a C++ framework in Unreal Engine 4 to facilitate rapid iteration/prototyping
+- Worked with a design team to create an educational and engaging user experience
+- Used an Unreal Engine 4 source build to customize the Emscripten C++ to JavaScript pipeline
+- Worked extensively with Unreal Engine 4 Blueprint and widget systems to script specified story points
   
-## Coding Instructor, Aug. 2019 - Present
+## Lead Coding Instructor, Aug. 2019 - Present
   
 Code Ninjas Winnipeg, Lead Senseis - Winnipeg, Canada  
-Worked to coordinate with other instructors and help streamline children's education in programming.
-- Developed summer camp curriculum related to programming and game development that built on provided frameworks and centred on the design process.
-- Taught students one-on-one focusing on developing the skills needed to pursue their personal coding related projects.
-- Developed strategies for staff - student interaction with the leadership team.
+Worked to coordinate with other instructors and help streamline children's education in programming
+- Developed summer camp curriculum related to programming and game development that built on provided frameworks and centred on the design process
+- Taught students one-on-one with a focus on developing the skills needed to pursue their personal coding related projects
+- Developed strategies for staff - student interaction with the leadership team
+- Built rapport with clients resulting in better understanding on the program and increased sign-up rate
 
 <br>
 
 # Projects
 ---
-## Commanders and Commandos (Unreal Engine 5) - [github.com/Gordoco/RTS_FPS][RTS_FPS]
+## Undergraduate Honors Thesis (Unity Engine) - Artificial Intelligence, Sept. 2023 - Apr. 2024
+  
+- Building upon a hypothesis presented in a master's degree thesis
+- Studying strategies regarding context generation in multi-agent intelligent systems
+- Creating simulations in Unity Engine to empirically test the effectiveness of various context generating strategies and analyzing results
+
+## Commanders and Commandos (Unreal Engine 5) - [github.com/Gordoco/RTS_FPS][RTS_FPS], May 2022 - Present
 [Steam store page][CandC_Steam]
   
 - Multiplayer 4v4 Match-Based Gameplay
 - Hybrid First Person Shooter/Real Time Strategy Gameplay
 - Implemented in Unreal Engine 5 using Steam Networking Services
   
-## Procedural Landscape Generator and AI Simulation (Unity Engine) - [github.com/Gordoco/EvolutionSimulator][EvolutionSimulator_Github]
+## Procedural Landscape Generator and AI Simulation (Unity Engine) - [github.com/Gordoco/EvolutionSimulator][EvolutionSimulator_Github], Jan. 2023 - Apr. 2023
 [Itch.io download page][EvolutionSimulator_Unity]
   
 - Unity Development Framework/Learning Exercise
