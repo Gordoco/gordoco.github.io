@@ -59,12 +59,12 @@ Worked to coordinate with other instructors and help streamline children's educa
 - Studying strategies regarding context generation in multi-agent intelligent systems
 - Creating simulations in Unity Engine to empirically test the effectiveness of various context generating strategies and analyzing results
 
-## Commanders and Commandos (Unreal Engine 5) - [github.com/Gordoco/RTS_FPS][RTS_FPS], May 2022 - Present
-[Steam store page][CandC_Steam]
+## Commanders and Commandos (Unreal Engine 5) - In Progress
   
 - Multiplayer 4v4 Match-Based Gameplay
 - Hybrid First Person Shooter/Real Time Strategy Gameplay
 - Implemented in Unreal Engine 5 using Steam Networking Services
+- Planned to be released on the Steam distribution platform
   
 ## Procedural Landscape Generator and AI Simulation (Unity Engine) - [github.com/Gordoco/EvolutionSimulator][EvolutionSimulator_Github], Jan. 2023 - Apr. 2023
 [Itch.io download page][EvolutionSimulator_Unity]
