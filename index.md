@@ -10,7 +10,7 @@
 
 # Profile
 ---
-Dedicated and eager to learn computer science student with a passion for game development. Over eight years of amateur game design and programming experience in various engines and languages with a particular speciality in C++ and Unreal Engine. Worked as the sole developer on a team to produce an engaging, educational children's game from a set of learning goals. Gained experience in the indie development work flow through the ongoing process of publishing a first independent title.
+Dedicated and eager to learn computer science student with a passion for game development. Over eight years of amateur game design and programming experience in various engines and languages with a particular speciality in C++ and Unreal Engine. Worked as the sole developer on a team to produce an engaging, educational children's game from a set of learning goals. Gained experience in the indie development work flow through the ongoing process of publishing an independent title.
  
 # Education
 ---
