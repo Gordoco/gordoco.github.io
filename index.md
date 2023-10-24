@@ -59,7 +59,7 @@ Worked to coordinate with other instructors and help streamline children's educa
 - Studying strategies regarding context generation in multi-agent intelligent systems
 - Creating simulations in Unity Engine to empirically test the effectiveness of various context generating strategies and analyzing results
 
-## Commanders and Commandos (Unreal Engine 5) - In Progress
+## Indie Game Project - Commanders and Commandos (Unreal Engine 5) - In Progress
   
 - Multiplayer 4v4 Match-Based Gameplay
 - Hybrid First Person Shooter/Real Time Strategy Gameplay
