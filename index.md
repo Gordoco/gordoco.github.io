@@ -13,34 +13,34 @@
  
  ### Programming Languages
  ---
- - C++
-	 + Constructed Networked and Non-Networked Game frameworks from the ground up using the Unreal Engine API
- - C#
-	 + Implemented procedural terrain generation, genetic algorithms, and various game systems through the Unity API
- - Java
-	 + Developed both console and simple GUI desktop applications for class projects
-	 + Created a full graphics pipeline using OpenGL through the Processing API for a Graphics class
- - SQL
-	 + Written and optimized queries on 10-20 thousand row relations
-	 + Interfaced with a Java front end system to create a SQL-Injection secure and efficient database querying application
- - Python
-	 + Developed autonomous developer documentation scripts for personal projects
- - Javascript
-	 + Worked with Emscripten to interface between projects written in C++ and C# and shipped to a web based platform
+#### C++
+- Constructed Networked and Non-Networked Game frameworks from the ground up using the Unreal Engine API  
+#### C#
+- Implemented procedural terrain generation, genetic algorithms, and various game systems through the Unity API
+#### Java
+ + Developed both console and simple GUI desktop applications for class projects
+ + Created a full graphics pipeline using OpenGL through the Processing API for a Graphics class
+#### SQL
+ + Written and optimized queries on 10-20 thousand row relations
+ + Interfaced with a Java front end system to create a SQL-Injection secure and efficient database querying application
+#### Python
+ + Developed autonomous developer documentation scripts for personal projects
+#### Javascript
+ + Worked with Emscripten to interface between projects written in C++ and C# and shipped to a web based platform
  
  ### Tools and Technology
  ---
  
- - Unreal Engine (4/5) - ~8-9 years experience
-	 + Developed a shipped title and several Game-Jam submissions and personal projects.
- - Unity Engine - ~2 years experience
-	 + Created Game-Jam submissions and academic simulations
- - Git/Github
-	 + Managed personal projects through Github source control
- - AI Algorithms
-	 + Contributed research through an Honors Degree Thesis
- - Web Application Development
-	 + Utilized WebGL and Emscripten to deploy game projects to a web platform
+#### Unreal Engine (4/5) - ~8-9 years experience
+ + Developed a shipped title and several Game-Jam submissions and personal projects.
+#### Unity Engine - ~2 years experience
+ + Created Game-Jam submissions and academic simulations
+#### Git/Github
+ + Managed personal projects through Github source control
+#### AI Algorithms
+ + Contributed research through an Honors Degree Thesis
+#### Web Application Development
+ + Utilized WebGL and Emscripten to deploy game projects to a web platform
 
 
 # Profile
@@ -105,7 +105,6 @@ Worked to coordinate with other instructors and help streamline children's educa
 - Created a functional Genetic-Algorithm Style Ecological Model
 - Developed a Mesh-Based Procedural Landscape and Foliage Generation solution
 - Implemented Object Pooling and Perlin-Noise, Pseudo-Random, Seeded Generation
-<br>
 
 # Game Jams
 ---
