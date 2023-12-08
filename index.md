@@ -20,7 +20,7 @@
 - Implemented procedural terrain generation, genetic algorithms, and various game systems through the Unity API
 ##### Java
  + Developed both console and simple GUI desktop applications for class projects
- + Created a full graphics pipeline using OpenGL through the Processing API for a Graphics class
+ + Created a full 3D graphics pipeline using OpenGL through the Processing API for a Graphics class
 ##### SQL
  + Written and optimized queries on 10-20 thousand row relations
  + Interfaced with a Java front end system to create a SQL-Injection secure and efficient database querying application
