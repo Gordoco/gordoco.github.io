@@ -11,35 +11,35 @@
 
 # Technical Skills
  
- ### Programming Languages
+ #### Programming Languages
  ---
-#### C++
+##### C++
 - Constructed Networked and Non-Networked Game frameworks from the ground up using the Unreal Engine API  
-#### C#
+##### C#
 - Implemented procedural terrain generation, genetic algorithms, and various game systems through the Unity API
-#### Java
+##### Java
  + Developed both console and simple GUI desktop applications for class projects
  + Created a full graphics pipeline using OpenGL through the Processing API for a Graphics class
-#### SQL
+##### SQL
  + Written and optimized queries on 10-20 thousand row relations
  + Interfaced with a Java front end system to create a SQL-Injection secure and efficient database querying application
-#### Python
+##### Python
  + Developed autonomous developer documentation scripts for personal projects
-#### Javascript
+##### Javascript
  + Worked with Emscripten to interface between projects written in C++ and C# and shipped to a web based platform
  
- ### Tools and Technology
+ #### Tools and Technology
  ---
  
-#### Unreal Engine (4/5) - ~8-9 years experience
+##### Unreal Engine (4/5) - ~8-9 years experience
  + Developed a shipped title and several Game-Jam submissions and personal projects.
-#### Unity Engine - ~2 years experience
+##### Unity Engine - ~2 years experience
  + Created Game-Jam submissions and academic simulations
 #### Git/Github
  + Managed personal projects through Github source control
-#### AI Algorithms
+##### AI Algorithms
  + Contributed research through an Honors Degree Thesis
-#### Web Application Development
+##### Web Application Development
  + Utilized WebGL and Emscripten to deploy game projects to a web platform
 
 

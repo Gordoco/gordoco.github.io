@@ -10,6 +10,7 @@
 <br>
 
 # Technical Skills
+<br>
  
  #### Programming Languages
  ---
