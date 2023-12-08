@@ -36,7 +36,7 @@
  + Developed a shipped title and several Game-Jam submissions and personal projects.
 ##### Unity Engine - ~2 years experience
  + Created Game-Jam submissions and academic simulations
-#### Git/Github
+##### Git/Github
  + Managed personal projects through Github source control
 ##### AI Algorithms
  + Contributed research through an Honors Degree Thesis
