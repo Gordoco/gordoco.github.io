@@ -11,10 +11,37 @@
 # Technical Skills
  ---
  
-| **Technical Skill** | **Demonstration** |
-| :--: | :--: |
-| C++ <br/> C# <br/> Java <br/> SQL <br/> Python <br/> Javascript <br/> Unreal Engine Blueprint <br/> Game Engines <br/> Code Documentation | Unreal Engine 4/5 <br/> Unity Engine <br/> Git/Github <br/> 3D Game Programming <br/> AI Algorithms <br/> Web Application Development |
-
+ ### Programming Languages
+ ---
+ - C++
+	 + Constructed Networked and Non-Networked Game frameworks from the ground up using the Unreal Engine API
+ - C#
+	 + Implemented procedural terrain generation, genetic algorithms, and various game systems through the Unity API
+ - Java
+	 + Developed both console and simple GUI desktop applications for class projects
+	 + Created a full graphics pipeline using OpenGL through the Processing API for a Graphics class
+ - SQL
+	 + Written and optimized queries on 10-20 thousand row relations
+	 + Interfaced with a Java front end system to create a SQL-Injection secure and efficient database querying application
+ - Python
+	 + Developed autonomous developer documentation scripts for personal projects
+ - Javascript
+	 + Worked with Emscripten to interface between projects written in C++ and C# and shipped to a web based platform
+ 
+ ### Tools and Technology
+ ---
+ 
+ - Unreal Engine (4/5) - ~8-9 years experience
+	 + Developed a shipped title and several Game-Jam submissions and personal projects.
+ - Unity Engine - ~2 years experience
+	 + Created Game-Jam submissions and academic simulations
+ - Git/Github
+	 + Managed personal projects through Github source control
+ - AI Algorithms
+	 + Contributed research through an Honors Degree Thesis
+ - Web Application Development
+	 + Utilized WebGL and Emscripten to deploy game projects to a web platform
+ 
 <br>
 <br>
 
@@ -25,7 +52,16 @@ Dedicated and eager to learn computer science student with a passion for game de
 # Education
 ---
 ## Bachelor of Science - Computer Science Honours, Minor in Mathematics
-#### University of Manitoba | Expected: April 2024
+### University of Manitoba | Expected: April 2024
+
+#### Notable Courses
+- Introduction to Artificial Intelligence (COMP 3190)
+- Databases Concepts and Usage (COMP 3380)
+- Distributed Database Systems and Database Tuning (COMP 418)
+- Computer Graphics 1 (COMP 3490)
+- Software Engineering 1 (COMP 3350)
+- AI Honors Thesis (COMP 4522)
+
 <br>
 
 # Experience 
@@ -55,25 +91,24 @@ Worked to coordinate with other instructors and help streamline children's educa
 ---
 ## Undergraduate Honors Thesis (Unity Engine) - Artificial Intelligence, Sept. 2023 - Apr. 2024
   
-- Building upon a hypothesis presented in a master's degree thesis
-- Studying strategies regarding context generation in multi-agent intelligent systems
-- Creating simulations in Unity Engine to empirically test the effectiveness of various context generating strategies and analyzing results
+- Expanded upon a hypothesis presented in a master's degree thesis
+- Studied strategies regarding context generation in multi-agent intelligent systems
+- Created simulations in Unity Engine to empirically test the effectiveness of various context generating strategies and analyzed results
 
 ## Indie Game Project - Commanders and Commandos (Unreal Engine 5) - In Progress
   
-- Multiplayer 4v4 Match-Based Gameplay
-- Hybrid First Person Shooter/Real Time Strategy Gameplay
-- Implemented in Unreal Engine 5 using Steam Networking Services
-- Planned to be released on the Steam distribution platform
+- Developed from the ground up a Multiplayer 4v4 Match-Based gameplay solution
+- Designed to be a hybrid First Person Shooter/Real Time Strategy experience
+- Implemented as a sole developer in Unreal Engine 5 using Steam Networking Services
+- Planned to release on the Steam distribution platform
   
 ## Procedural Landscape Generator and AI Simulation (Unity Engine) - [github.com/Gordoco/EvolutionSimulator][EvolutionSimulator_Github], Jan. 2023 - Apr. 2023
 [Itch.io download page][EvolutionSimulator_Unity]
   
 - Unity Development Framework/Learning Exercise
-- Functional Genetic-Algorithm Style Ecological Model
-- Mesh-Based Procedural Landscape and Foliage Generation
-- Utilizes Object Pooling and Perlin-Noise, Pseudo-Random, Seeded Generation
-- Implemented in Unity Engine
+- Created a functional Genetic-Algorithm Style Ecological Model
+- Developed a Mesh-Based Procedural Landscape and Foliage Generation solution
+- Implemented Object Pooling and Perlin-Noise, Pseudo-Random, Seeded Generation
 <br>
 
 # Game Jams
